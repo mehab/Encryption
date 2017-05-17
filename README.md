@@ -1,2 +1,2 @@
 # Encryption
-DES and its modes
+Simplified DES
